@@ -23,6 +23,9 @@ Feel free to open an issue, comment on one of my repositories, or get in touch.
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadi-mohseni&show_icons=true&title_color=24292e&icon_color=40c463&text_color=24292e&bg_color=fff&count_private=true)
+GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadi-mohseni&layout=compact)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hadi-mohseni&show_icons=true&title_color=24292e&icon_color=40c463&text_color=24292e&bg_color=fff&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadi-mohseni&layout=compact" />
+</p>
