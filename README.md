@@ -1,12 +1,9 @@
-# Hi, I'm Hadi Mohseni 👋
 
 ### Backend Engineer · Distributed Systems · DevOps
 
 I build **scalable, secure, and maintainable backend systems**, primarily with Python and Django.
 
 I'm particularly interested in **software architecture, distributed systems, observability, API security, and infrastructure**.
-
-> **Simplicity is the aim.**
 
 ---
 
